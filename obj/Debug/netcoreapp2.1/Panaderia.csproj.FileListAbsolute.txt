@@ -1,0 +1,78 @@
+C:\Users\Admin\Desktop\Panaderia\bin\Debug\netcoreapp2.1\Panaderia.deps.json
+C:\Users\Admin\Desktop\Panaderia\bin\Debug\netcoreapp2.1\Panaderia.runtimeconfig.json
+C:\Users\Admin\Desktop\Panaderia\bin\Debug\netcoreapp2.1\Panaderia.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Panaderia\bin\Debug\netcoreapp2.1\Panaderia.dll
+C:\Users\Admin\Desktop\Panaderia\bin\Debug\netcoreapp2.1\Panaderia.pdb
+C:\Users\Admin\Desktop\Panaderia\bin\Debug\netcoreapp2.1\Panaderia.Views.dll
+C:\Users\Admin\Desktop\Panaderia\bin\Debug\netcoreapp2.1\Panaderia.Views.pdb
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.Views.pdb
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.dll
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.pdb
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Panaderia.csproj.CopyComplete
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Lista.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Ver.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contacto.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\Confirmacion.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\Empleado.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\EmpleadoConfirmacion.g.cshtml.cs
+C:\Users\Admin\Desktop\Panaderia\obj\Debug\netcoreapp2.1\Razor\Views\Home\Empleados.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\bin\Debug\netcoreapp2.1\Panaderia.deps.json
+F:\Programacion 1\Panaderia-Sem13\bin\Debug\netcoreapp2.1\Panaderia.runtimeconfig.json
+F:\Programacion 1\Panaderia-Sem13\bin\Debug\netcoreapp2.1\Panaderia.runtimeconfig.dev.json
+F:\Programacion 1\Panaderia-Sem13\bin\Debug\netcoreapp2.1\Panaderia.dll
+F:\Programacion 1\Panaderia-Sem13\bin\Debug\netcoreapp2.1\Panaderia.pdb
+F:\Programacion 1\Panaderia-Sem13\bin\Debug\netcoreapp2.1\Panaderia.Views.dll
+F:\Programacion 1\Panaderia-Sem13\bin\Debug\netcoreapp2.1\Panaderia.Views.pdb
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.csprojAssemblyReference.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.csproj.CoreCompileInputs.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.RazorAssemblyInfo.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.RazorAssemblyInfo.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.AssemblyInfoInputs.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.AssemblyInfo.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.TagHelpers.input.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.TagHelpers.output.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.RazorCoreGenerate.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\Confirmacion.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contacto.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\Empleado.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\EmpleadoConfirmacion.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\Empleados.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Lista.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Ver.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.RazorTargetAssemblyInfo.cache
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.RazorTargetAssemblyInfo.cs
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.Views.pdb
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.dll
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.pdb
+F:\Programacion 1\Panaderia-Sem13\obj\Debug\netcoreapp2.1\Panaderia.csproj.CopyComplete
